@@ -5,12 +5,24 @@
     <link>https://artyapkova.github.io/tags/hugo-blox/</link>
       <atom:link href="https://artyapkova.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://artyapkova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://artyapkova.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://artyapkova.github.io/post/02/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://artyapkova.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;итоги-учебной-недели&#34;&gt;Итоги учебной недели&lt;/h1&gt;
+&lt;p&gt;Еще одна неделя позади! Было непросто, но очень интересно. Особенно понравились лекции по математическому анализу — теперь начинаю понимать, насколько это мощный инструмент.&lt;/p&gt;
+&lt;p&gt;Также разбирались с LaTeX для оформления научных работ. Сначала казалось сложным, но теперь вижу, насколько он удобен.&lt;/p&gt;
+&lt;p&gt;Как у вас дела с учебой? Какие темы были самыми сложными?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>

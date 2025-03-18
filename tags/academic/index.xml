@@ -5,12 +5,58 @@
     <link>https://artyapkova.github.io/tags/academic/</link>
       <atom:link href="https://artyapkova.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://artyapkova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
       <link>https://artyapkova.github.io/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://artyapkova.github.io/post/02/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://artyapkova.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;итоги-учебной-недели&#34;&gt;Итоги учебной недели&lt;/h1&gt;
+&lt;p&gt;Еще одна неделя позади! Было непросто, но очень интересно. Особенно понравились лекции по математическому анализу — теперь начинаю понимать, насколько это мощный инструмент.&lt;/p&gt;
+&lt;p&gt;Также разбирались с LaTeX для оформления научных работ. Сначала казалось сложным, но теперь вижу, насколько он удобен.&lt;/p&gt;
+&lt;p&gt;Как у вас дела с учебой? Какие темы были самыми сложными?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки разметки и LaTeX</title>
+      <link>https://artyapkova.github.io/publication/02/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://artyapkova.github.io/publication/02/</guid>
+      <description>&lt;h1 id=&#34;языки-разметки-и-latex&#34;&gt;Языки разметки и LaTeX&lt;/h1&gt;
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Языки разметки используются для структурирования и оформления текста. Они позволяют управлять его отображением и добавлять сложные элементы, такие как таблицы, списки и формулы.&lt;/p&gt;
+&lt;p&gt;Среди самых известных языков разметки можно выделить:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — основа для веб-страниц.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — простой язык для форматирования заметок и документации.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — мощный инструмент для научных текстов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;что-такое-latex&#34;&gt;Что такое LaTeX?&lt;/h2&gt;
+&lt;p&gt;LaTeX — это система подготовки документов, предназначенная для работы с техническими и научными текстами. Он широко применяется в математике, физике, компьютерных науках и инженерии.&lt;/p&gt;
+&lt;p&gt;Основные особенности LaTeX:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Поддержка сложных математических формул.&lt;/li&gt;
+&lt;li&gt;Автоматическая генерация оглавлений, ссылок и библиографий.&lt;/li&gt;
+&lt;li&gt;Высокое качество типографики.&lt;/li&gt;
+&lt;li&gt;Гибкость в настройке оформления документа.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;где-применяется-latex&#34;&gt;Где применяется LaTeX?&lt;/h2&gt;
+&lt;p&gt;LaTeX активно используют студенты, ученые и инженеры. Он особенно полезен для:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Написания курсовых и дипломных работ.&lt;/li&gt;
+&lt;li&gt;Подготовки научных публикаций.&lt;/li&gt;
+&lt;li&gt;Создания презентаций и отчетов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Хотя освоение LaTeX требует времени, его преимущества делают его незаменимым инструментом для тех, кто работает с научными текстами.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
