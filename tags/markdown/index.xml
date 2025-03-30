@@ -5,12 +5,29 @@
     <link>https://artyapkova.github.io/tags/markdown/</link>
       <atom:link href="https://artyapkova.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://artyapkova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://artyapkova.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://artyapkova.github.io/post/03/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://artyapkova.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-итоги-недели-на-мехмат&#34;&gt;📌 Итоги недели на МехМат&lt;/h1&gt;
+&lt;p&gt;Неделя прошла с чувством — нагрузка ощутимая, но уже воспринимается как рабочий ритм.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📐 На аналитической геометрии углубились в кривые второго порядка. Удивительно, как красиво всё ложится через матрицы.&lt;/li&gt;
+&lt;li&gt;⚙️ Механика — снова вычисления моментов инерции. Формул много, но начинает складываться единая картина.&lt;/li&gt;
+&lt;li&gt;🧮 Математический анализ: частные производные, градиенты — задач много, зато уже уверенно подходим к решениям.&lt;/li&gt;
+&lt;li&gt;🧠 Пара вне программы — обсуждали научные конференции и что нужно для первой серьёзной презентации. Есть над чем подумать.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Темп держится. Главное — не выгорать, и не забывать про перерывы.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
