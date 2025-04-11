@@ -5,7 +5,7 @@
     <link>https://artyapkova.github.io/tags/wowchemy/</link>
       <atom:link href="https://artyapkova.github.io/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
     <description>Wowchemy</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://artyapkova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Wowchemy</title>
@@ -13,27 +13,30 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://artyapkova.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://artyapkova.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://artyapkova.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://artyapkova.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://artyapkova.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://artyapkova.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Персональный сайт ученого</title>
+      <link>https://artyapkova.github.io/project/hugo/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://artyapkova.github.io/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;персональный-сайт-ученого-с-hugo-academic-почему-это-важно&#34;&gt;Персональный сайт ученого с Hugo Academic: почему это важно&lt;/h1&gt;
+&lt;h2 id=&#34;введение-в-цифровую-эпоху-науки&#34;&gt;Введение в цифровую эпоху науки&lt;/h2&gt;
+&lt;p&gt;Время, когда ученые ограничивались лишь печатными изданиями и конференциями, прошло. Веб-сайты становятся важной частью профессиональной жизни исследователей. Персональный сайт — это не просто статическая страница, а инструмент для связи с коллегами, обмена знаниями и демонстрации научных достижений. В этом контексте Hugo Academic — отличное решение для создания такого сайта. Эта тема для статического генератора Hugo подходит для ученых, исследователей и преподавателей, обеспечивая баланс между функциональностью и простотой.&lt;/p&gt;
+&lt;h2 id=&#34;зачем-нужен-hugo-academic&#34;&gt;Зачем нужен Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Hugo — это мощный инструмент для генерации статических сайтов, который отличается высокой скоростью работы и гибкостью. Hugo Academic — это уже готовая тема, ориентированная на создание научных сайтов. Почему стоит обратить внимание на эту тему?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Простота и эффективность&lt;/strong&gt;: Hugo Academic позволяет без лишних усилий создать красивый и функциональный сайт, не требующий сложной настройки.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Оптимизация под нужды ученого&lt;/strong&gt;: тема ориентирована на публикации, проекты, курсы и CV. Это означает, что вам не нужно адаптировать сайт под свою сферу — все уже учтено.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость и масштабируемость&lt;/strong&gt;: вы можете настроить сайт под любые нужды, начиная от простой визитки и заканчивая сложной платформой для публикаций и исследований.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;особенности-которые-делают-hugo-academic-идеальным-для-ученого&#34;&gt;Особенности, которые делают Hugo Academic идеальным для ученого&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Удобная публикация работ&lt;/strong&gt;: легко добавлять статьи, отчеты, доклады с возможностью прикрепления файлов и ссылки на внешние источники (например, DOI).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Проекты и исследования&lt;/strong&gt;: возможность структурировать ваши проекты, делиться результатами и методами, а также сотрудничать с коллегами.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Учебная деятельность&lt;/strong&gt;: добавление информации о курсах, лекциях и учебных материалах позволяет студентам и коллегам всегда быть в курсе вашей образовательной деятельности.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Интеграция с научными платформами&lt;/strong&gt;: поддержка Google Scholar, ORCID и других научных сервисов, что позволяет автоматически обновлять данные о публикациях и достижениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Создание сайта на Hugo Academic — это не только возможность продемонстрировать свои достижения, но и инструмент для взаимодействия с академическим сообществом. Такой сайт помогает оставаться на связи с коллегами и студентами, а также делает вашу научную деятельность доступной и видимой для широкой аудитории. Если вы хотите легко и быстро создать персональный сайт для ученого, Hugo Academic — это оптимальное решение.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
